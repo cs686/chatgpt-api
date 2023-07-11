@@ -11,7 +11,7 @@ Starter untuk menjalankan web framework [Gin](https://github.com/gin-gonic/gin) 
 
 Deploy the example using [Vercel](https://vercel.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/zakiego/go-gin-vercel&project-name=go-gin-vercel&repository-name=go-gin-vercel)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/cs686/chatgpt-api&project-name=chatgpt-api&repository-name=chatgpt-api)
 
 ## How to use
 
